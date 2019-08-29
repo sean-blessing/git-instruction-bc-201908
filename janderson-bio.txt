@@ -6,4 +6,6 @@ Start: May, 1, 2017
 Experienced software instructor with deep 
 knowledge of the following software products:
 •	Microsoft C#.Net
-•	Git & GitHub.
+•	Git & GitHub
+•	Java
+
